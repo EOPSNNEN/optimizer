@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Debug\net6.0\optimizer.exe
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Debug\net6.0\optimizer.deps.json
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Debug\net6.0\optimizer.runtimeconfig.json
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Debug\net6.0\optimizer.dll
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Debug\net6.0\optimizer.pdb
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\optimizer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\optimizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\optimizer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\optimizer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\optimizer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\optimizer.dll
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\refint\optimizer.dll
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\optimizer.pdb
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\optimizer.genruntimeconfig.cache
+C:\Users\Admin\source\repos\optimizer\optimizer\obj\Debug\net6.0\ref\optimizer.dll

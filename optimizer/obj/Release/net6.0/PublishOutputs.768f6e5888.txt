@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Release\net6.0\publish\optimizer.exe
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Release\net6.0\publish\optimizer.dll
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Release\net6.0\publish\optimizer.deps.json
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Release\net6.0\publish\optimizer.runtimeconfig.json
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Release\net6.0\publish\optimizer.pdb
