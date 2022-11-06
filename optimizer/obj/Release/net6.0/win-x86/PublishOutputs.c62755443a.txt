@@ -1,2 +1,3 @@
 C:\Users\Admin\source\repos\optimizer\optimizer\bin\Release\net6.0\publish\win-x86\optimizer.pdb
+C:\Users\Admin\source\repos\optimizer\optimizer\bin\Release\net6.0\publish\win-x86\System.Diagnostics.StackTrace.dll
 C:\Users\Admin\source\repos\optimizer\optimizer\bin\Release\net6.0\publish\win-x86\optimizer.exe

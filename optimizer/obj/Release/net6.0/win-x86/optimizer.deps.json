@@ -134,8 +134,7 @@
             "fileVersion": "6.0.1022.47605"
           },
           "System.Diagnostics.StackTrace.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.1022.47605"
+            "fileVersion": "0.0.0.0"
           },
           "System.Diagnostics.TextWriterTraceListener.dll": {
             "assemblyVersion": "6.0.0.0",

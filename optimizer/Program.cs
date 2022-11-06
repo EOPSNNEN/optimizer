@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
 
 namespace optimizer
 {
@@ -15,37 +16,54 @@ namespace optimizer
         {
             
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Type 1 to optimize system");
+            Console.WriteLine("Type 1 to optimize system: ");
             string input = Console.ReadLine();
+
             int selectedOption;
             if (int.TryParse(input, out selectedOption))
             {
                 if (selectedOption == 1)
                 {
+                    DateTime now = DateTime.Now;
+                 
+
                     Console.WriteLine("\nflushing data...");
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Flush...");
                     flushDNS();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Temp...");
                     temp();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Win Temp...");
                     wintemp();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Recycle Bin...");
                     RecycleBin();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Prefectch...");
                     prefetch();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Downloads...");
                     downloads();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Logs...");
                     logs();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing LdPlayer Logs...");
                     LDlogs();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Xamarin...");
                     Xamarin();
-                    Thread.Sleep(100);  
+                    Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing Packages...");
                     Packages();
                     Thread.Sleep(100);
+                    Console.WriteLine(Convert.ToString(now) + " Clearing D3DSCache...");
                     D3DSCache();
-                    
-                    
+                    Thread.Sleep(1000);
+                    Console.WriteLine("Done");
+                    Thread.Sleep(500);
 
                 }
             }
