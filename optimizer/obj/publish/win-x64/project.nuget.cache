@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4sX519+lhLu4xFGYwg+7Rjf+nCJAHJwqCI4x3fCRVQ1e2q1PPy3iqq4fMXxIo09/vDSXQMJL5CRd4X5FYOn8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\optimizer\\optimizer\\optimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.12\\microsoft.netcore.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -14,7 +14,9 @@ namespace optimizer
            
         public static void optimize()
         {
-            
+            Console.Title = "Storage Optimizer";
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Author: https://github.com/K1netikS | https://t.me/K1n_eopseo\n");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Type 1 to optimize system: ");
             string input = Console.ReadLine();
